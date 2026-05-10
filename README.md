@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Shivam 👋
 
-<!--
-**shivamdalal93156-afk/shivamdalal93156-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer and B.Tech student at Delhi Technological University (Mathematics & Computing, 2025–29).
 
-Here are some ideas to get you started:
+Currently interning at **Focus Desk** — building Express.js APIs, designing MongoDB schemas, and thinking through how backend systems should be structured.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learn by building things, breaking them, and understanding why they broke.
+
+**Tech I work with:**
+- Backend: Node.js, Express.js , fastapi
+- Databases: MongoDB, PostgreSQL
+- Tools: Git, Postman
+- Explored: Python, FastAPI, ComfyUI (AI pipelines)
+
+**Currently building:** A SaaS product (private repo) — handling all technical architecture and backend logic.
+
+📬 shivamdalal93156@gmail.com
+🔗 linkedin.com/in/shivam-kumar-925044379
