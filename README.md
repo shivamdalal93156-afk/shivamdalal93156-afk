@@ -1,8 +1,8 @@
 ## Hey, I'm Shivam 👋
 
 Backend developer and B.Tech student at Delhi Technological University (Mathematics & Computing, 2025–29).
-
-Currently interning at **Focus Desk** — building Express.js APIs, designing MongoDB schemas, and thinking through how backend systems should be structured.
+ 
+past intern at **Focus Desk** — building Express.js APIs, designing MongoDB schemas, and thinking through how backend systems should be structured.
 
 I learn by building things, breaking them, and understanding why they broke.
 
