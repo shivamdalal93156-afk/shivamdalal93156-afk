@@ -44,8 +44,12 @@ Automates Adobe After Effects template rendering into finished MP4s at scale —
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivamdalal93156-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=shivamdalal93156-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdalal93156-afk&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivamdalal93156-afk&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
