@@ -34,11 +34,49 @@ Headless After Effects rendering pipeline — `aerender` + `FFmpeg`, driven by E
 
 <br/>
 
-## 🧰 Stack
+## 💼 Backend Intern — Focus Desk
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis,react,python,git" />
-</p>
+Shipped Express.js APIs and designed MongoDB schemas in production. Three months, on-site, real users.
+
+<br/>
+
+## 🧰 Skills
+
+<details>
+<summary><b>Backend & APIs</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python"/>
+
+`REST API design` `WebSocket`
+
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis"/>
+
+</details>
+
+<details>
+<summary><b>Frontend</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,js"/>
+
+</details>
+
+<details>
+<summary><b>Tools & Other</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman"/>
+
+`ComfyUI — local multi-stage AI pipeline optimization`
+
+</details>
 
 <br/>
 
