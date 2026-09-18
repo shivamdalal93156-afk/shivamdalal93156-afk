@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shivam;I+build+backend+systems;Currently%3A+SaaSCheck+%26+MotionAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Shivam;I+build+backend+systems;Currently+building+SaaSCheck" alt="Typing SVG" />
 
 **Backend developer · B.Tech Mathematics & Computing, DTU '29**
 
@@ -42,41 +42,19 @@ Shipped Express.js APIs and designed MongoDB schemas in production. Three months
 
 ## 🧰 Skills
 
-<details>
-<summary><b>Backend & APIs</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python"/>
-
+**Backend & APIs**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python"/></p>
 `REST API design` `WebSocket`
 
-</details>
+**Databases**
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis"/></p>
 
-<details>
-<summary><b>Databases</b></summary>
-<br/>
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,js"/></p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis"/>
-
-</details>
-
-<details>
-<summary><b>Frontend</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,js"/>
-
-</details>
-
-<details>
-<summary><b>Tools & Other</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman"/>
-
+**Tools & Other**
+<p><img src="https://skillicons.dev/icons?i=git,github,postman"/></p>
 `ComfyUI — local multi-stage AI pipeline optimization`
-
-</details>
 
 <br/>
 
